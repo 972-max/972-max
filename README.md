@@ -10,7 +10,7 @@ J'aime partir d'une question concrète, aller chercher les données, les nettoye
 | Projet | Ce que j'ai fait | Outils |
 |---|---|---|
 | [**Analyse de mon activité Uber Eats**](https://github.com/972-max/ubereats-analyse) | Analyse de mes propres relevés de livraison : nettoyage, contrôle qualité, revenu par heure active, rentabilité par créneau, dashboard | Python · Pandas · Matplotlib · Power BI |
-| [**Persora RH**](https://github.com/972-max/projet-final) | Application de présélection de candidats réalisée pour un client : modèle de données PostgreSQL, sécurité par RLS, gestion du consentement RGPD | SQL · PostgreSQL · Supabase · React · TypeScript |
+| [**Persora RH**](https://github.com/972-max/persora-rh) | Application de présélection de candidats réalisée pour un client : modèle de données PostgreSQL, sécurité par RLS, gestion du consentement RGPD | SQL · PostgreSQL · Supabase · React · TypeScript |
 
 ### Compétences
 
